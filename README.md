@@ -63,7 +63,7 @@ I am **Srikanth Rajendran**, a dedicated Full Stack Developer and AR/VR Speciali
 ## **Connect with Me:**  
 
 <p align="left">
-  <a href="https://www.youtube.com/c/@strgamer007" target="_blank">
+  <a href="https://www.youtube.com/@strgamer007" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@strgamer007" height="30" width="40"/>
   </a>
 </p>
